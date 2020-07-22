@@ -2,7 +2,6 @@
 .SYNOPSIS
     Download and Install latest VLC player
 	Mark Messink 21-07-2020
-	Info: https://docs.microsoft.com/en-us/onedrive/per-machine-installation
 
 .DESCRIPTION
  
